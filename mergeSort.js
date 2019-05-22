@@ -31,4 +31,4 @@ function merge(left, right) {
     }
     return arr
 }
-console.log(mergeSort(arr));//[-410, -5, 0, -0, 1, 1, 5, 100]
+console.log(mergeSort(arr));//[-410, -5, 0, 1, 1, 5, 100]
